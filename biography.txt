@@ -1,6 +1,6 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
+Sasikumar Natarajan
+I am working as a SQL Server DBA & Data Analyst at an Aerospace consulting firm in Seattle. I have over 15 years of experience as Database Developer/Analyst/DBA and also C#.Net developer. All throughtout my career I am dealing with storing and analysing data. This paved interest in taking my expertise in Analysis to next level to Data Scientist and so have chosen this graduate program to get well verse in this area.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
 5.  Do you have other experience with R or Python?
