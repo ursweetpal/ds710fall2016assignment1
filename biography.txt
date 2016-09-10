@@ -1,8 +1,11 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-Sasikumar Natarajan
-I am working as a SQL Server DBA & Data Analyst at an Aerospace consulting firm in Seattle. I have over 15 years of experience as Database Developer/Analyst/DBA and also C#.Net developer. All throughtout my career I am dealing with storing and analysing data. This paved interest in taking my expertise in Analysis to next level to Data Scientist and so have chosen this graduate program to get well verse in this area.
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+1. Sasikumar Natarajan
+2. I am working as a SQL Server DBA & Data Analyst at an Aerospace consulting firm in Seattle. I have over 15 years of experience as Database Developer/Analyst/DBA and also C#.Net developer. All throughtout my career I am dealing with storing and analysing data. This paved interest in taking my expertise in Analysis to next level to Data Scientist and so have chosen this graduate program to get well verse in this area.
+3. I have over 15 years of experience as Database Developer/Analyst/DBA and also C#.Net developer. I have sound work experience in programming languages like T-SQL, MDX queries, C# .Net, C, R, Python. In addition to work experience, I completed Certification in Data Science at University of Washington.
+4. During my 9 months Certification in Data Science at University of washington, gained good knowledge in various topics in Statistics & Probability  including Descriptive statistics in R, data.table package, R Markdown, probability distributions, the central limit theorem.
+Along with those above concepts, other advanced concepts covered during the course are sampling distributions, statistical inference, Hypothesis testing, t tests, Linear Models, Maximum Likelihood and Generalized Linear Models, Prediction: Concepts, cross-validation, all-subsets variable selection, Prediction, Big Data in R: Parallelization and external data, K nearest neighbors classification, partial least squares regression. 
+These knowledge gained in Statistics during the course was applied in Brain signal decoding dataset and developed machine learning algorithm in Azure ML studio using R language and participated in Capstone project in Cortana competetion and was ranked 34.
+5.  During my 9 months Certification in Data Science at University of washington, every week we had assignments on various Machine Learning, Data preparation and Statistical approaches was given. All the assignments were solved using R language in R Studio and R markdown. 
+I started working in Python language while developing IoT project using Raspberry Pi. The project involved Raspberry Pi device interacting with camera.
+6. My expectation from this course is to gain more working knowledge and technical expertise in Python & R languages. Would like to gain expertise in application of these programming languages in analyzing large datasets.
+7. In addition to the certification in Data Science, I have also completed certification in Big Data & Hadoop. In that course, I have learned about HDFS and various components of Hadoop ecosystem. Using the knowledge I gained, did a project to pull live data from Twitter  and did sentiment analysis.
